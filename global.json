@@ -1,22 +1,22 @@
 [
     {
         "Agrupación": "Organización",
-        "Promedio": "44.6%",
+        "Promedio": "52.9%",
         "Fuente": "Cálculo propio basado en los KPIs"
     },
     {
         "Agrupación": "Procesos",
-        "Promedio": "63.8%",
+        "Promedio": "72.6%",
         "Fuente": "Cálculo propio basado en los KPIs"
     },
     {
         "Agrupación": "Flujo de Trabajo",
-        "Promedio": "66.8%",
+        "Promedio": "68.7%",
         "Fuente": "Cálculo propio basado en los KPIs"
     },
     {
         "Agrupación": "General",
-        "Promedio": "58.4%",
+        "Promedio": "64.6%",
         "Fuente": "Cálculo propio basado en agrupaciones"
     }
 ]
